@@ -78,12 +78,19 @@ You’re not just writing programs anymore — you’re designing ecosystems. �
 
 
 🧰 Use Case Table: Kotlin XML App (Lake Series)
+
 🧪 Use Case	🚀 File(s) to Run	🧠 What It Does	🧭 How to Run / Activate
+
 🔢 Basic XML-driven loop	LakeOntario.kt	Reads start and end from config.xml, prints numbers from start to end	Open LakeOntario.kt → right-click main() → Run
+
 ☀️ Semantic task routine	LakeSuperior.kt	Reads <task> list from routine.xml, prints each task like a robot’s morning plan	Open LakeSuperior.kt → right-click main() → Run
+
 🏋️ View structured workout log	LakeHuron.kt	Reads workout-log.xml, parses structured <activity> entries, prints summary to console	Open LakeHuron.kt → right-click main() → Run
+
 📤 Export workout log to CSV	LakeHuron.kt	Exports all parsed workout entries to workout-log.csv in project root	Run LakeHuron.kt → Look for workout-log.csv in project root directory
+
 📝 Add new workout to XML	LakeMichigan.kt	Prompts user for workout details (type, name, reps/duration), adds new <activity> to workout-log.xml	Open LakeMichigan.kt → Run → Enter prompts in console
+
 🔄 Create new kinds of activities	LakeMichigan.kt + Workout.kt + LakeHuron.kt	Supports any new tag attributes (e.g. kata, rounds, sets) — XML is open-ended	Edit LakeMichigan.kt to accept new fields → Add them in user prompt → Re-run LakeHuron.kt to see new activity
 
 
