@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<workoutLog>
+        
+    <activity duration="30" name="Running" type="cardio" unit="minutes"/>
+        
+    <activity name="Push-ups" reps="50" type="strength"/>
+        
+    <activity duration="15" name="Stretching" type="mobility" unit="minutes"/>
+    
+    <activity duration="20" name="dhdhgg" type="jhjd" unit="minutes"/>
+</workoutLog>
